@@ -3,7 +3,7 @@
 
 #UBC APP and THAT, WEEK 1: GIT PRACTICE
 
-## TakeHome - Instructions
+## Instructions
 
 #####NOTE:
 If you have questions, don't hestate to post on Piazza!
