@@ -10,9 +10,9 @@ If you have questions, don't hestate to post on Piazza!
 
 
 ######Part 1 - Fork and Clone
-1. Fork this repository and then clone it onto your local machine
-2. Add your name (and whatever else you want) to the *very* bottom of this file
-3. Push your changes to *your forked* repository on github (not this one!) 
+5. Fork this repository and then clone it onto your local machine
+5. Add your name (and whatever else you want) to the *very* bottom of this file
+5. Push your changes to *your forked* repository on github (not this one!) 
 
 
 ######Part 2 - Fork and Pull
