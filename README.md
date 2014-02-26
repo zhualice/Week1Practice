@@ -5,8 +5,7 @@
 
 ### Instructions
 
-#####NOTE:
-If you have questions, don't hestate to post on Piazza!
+#####NOTE:If you have questions, don't hestate to post on Piazza!
 
 
 ######Part 1 - Fork and Clone
