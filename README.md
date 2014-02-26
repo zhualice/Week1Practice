@@ -29,8 +29,9 @@
 ######4:  Branching
 8. Create a new branch with the name of your GitHub username.
 9. Switch to your new branch and add some ASCII Art [generate it here](http://www.glassgiant.com/ascii/) beside your name
-10. Switch back to your master branch and merge your new branch into your master branch
-11. Delete your branch that you created in part 8
+10. Push your branch to your forked repo and then send me a pull request to the origin repo (at /AppsandThat/Week1Practice.git)
+12. Switch back to your master branch and merge your new branch into your master branch
+11. Delete your branch that you created in part 8 (only on your local repo)
 
 
 ######5:  Finishing Up
