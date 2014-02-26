@@ -40,7 +40,6 @@ If you have questions, don't hestate to post on Piazza!
  
 
 
----------------------------------------------------------------------------------------------------------------------
 ##HELPFUL RESOURCES
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -56,10 +55,8 @@ If you have questions, don't hestate to post on Piazza!
 * Git Branching [http://pcottle.github.io/learnGitBranching/](http://pcottle.github.io/learnGitBranching/)
 
 
----------------------------------------------------------------------------------------------------------------------
 ##Useful & Common GIT Commands
 ---------------------------------------------------------------------------------------------------------------------
-#### Typical & Highly Useful Git Commands
 
 ```bash
 git clone git@github.com:<user_name>/the-repo-you-are-cloning.git
