@@ -5,31 +5,37 @@
 
 ### Instructions
 
-###### If you have questions, don't hestate to post on Piazza!
+#####NOTE:
+If you have questions, don't hestate to post on Piazza!
 
-#######Part 1 - Fork and Clone
+
+######Part 1 - Fork and Clone
 1. Fork this repository and then clone it onto your local machine
 2. Add your name (and whatever else you want) to the *very* bottom of this file
 3. Push your changes to *your forked* repository on github (not this one!) 
-#######Part 2 - Fork and Pull
+
+
+######Part 2 - Fork and Pull
 4. Send me (this repo, not yours) a pull request!
 5. Replace you name with your github username in README.md and commit your changes
 6. Fetch your remote repo and merge it with your local one 
 
-#######Part 3 - Issues
+
+######Part 3 - Issues
 7. Create an issue on GitHub called: "Need moar ACII Arts" (or anyother name you want!) on GitHub. 
    Add a description too! I'll close the issue when you've finished this exercise (step 10).
-#######Part 4 - Branching
+
+
+######Part 4 - Branching
 8. Create a new branch with the name of your GitHub username.
 9. Switch to your new branch and add some ASCII Art [http://www.glassgiant.com/ascii/](generate it here) beside your name
 10. Switch back to your master branch and merge your new branch into your master branch
 11. Delete your branch that you created in part 8
 
 
-#######Part 5 - Finishing Up
+######Part 5 - Finishing Up
 12. Push the changes to your forked repo 
 13. Send me another pull request with your newly add ASCII Art
-
 14. You're *DONE*! If you are still curious check out [http://www.gitref.com](gitref.com) or look below for more commands. Also try forking and editing our website repository here: [github.com/AppsandThat/AppsandThat.io](Apps n That repo). I've created a few issues for you to solve
  
 
