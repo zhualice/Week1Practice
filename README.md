@@ -16,6 +16,7 @@ If you have questions, don't hestate to post on Piazza!
 
 
 ######Part 2 - Fork and Pull
+
 4. Send me (this repo, not yours) a pull request!
 5. Replace you name with your github username in README.md and commit your changes
 6. Fetch your remote repo and merge it with your local one 
