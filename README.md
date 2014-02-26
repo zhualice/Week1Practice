@@ -3,9 +3,10 @@
 
 #UBC APP and THAT, WEEK 1: GIT PRACTICE
 
-### Instructions
+## TakeHome - Instructions
 
-#####NOTE:If you have questions, don't hestate to post on Piazza!
+#####NOTE:
+If you have questions, don't hestate to post on Piazza!
 
 
 ######Part 1 - Fork and Clone
